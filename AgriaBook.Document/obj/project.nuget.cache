@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "MIn6IcKI8u/tHCgY6Uq8mjyb0fhli4Ikho5vBVsqG8B7QDem+bY813rUfY5Dgfyp+9lfqiTgsSq4HnNQ5z+4gA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a.krustev\\Google Drive\\repos\\AgriaBook\\AgriaBook.Document\\AgriaBook.Document.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a.krustev\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}
